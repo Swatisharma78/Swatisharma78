@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **ss2958560@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1SYDp8YjeQbqHIU1-6gg1cPJRZoVwgAdR/edit](https://docs.google.com/document/d/1SYDp8YjeQbqHIU1-6gg1cPJRZoVwgAdR/edit)
+- 📄 Know about my experiences https://docs.google.com/document/d/1SYDp8YjeQbqHIU1-6gg1cPJRZoVwgAdR/edit?usp=sharing&ouid=103171737350372061043&rtpof=true&sd=true
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
