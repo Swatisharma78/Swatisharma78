@@ -17,11 +17,11 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ss2958560](https://medium.com/@ss2958560)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Chakra UI**
 
 - 📫 How to reach me **ss2958560@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1SYDp8YjeQbqHIU1-6gg1cPJRZoVwgAdR/edit?usp=sharing&ouid=103171737350372061043&rtpof=true&sd=true](https://docs.google.com/document/d/1SYDp8YjeQbqHIU1-6gg1cPJRZoVwgAdR/edit?usp=sharing&ouid=103171737350372061043&rtpof=true&sd=true)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1zbdbuWtEzB-zpgZmbaKXnw7XeL0ubBfuFy4mJByXYKI/edit?usp=sharing](https://docs.google.com/document/d/1zbdbuWtEzB-zpgZmbaKXnw7XeL0ubBfuFy4mJByXYKI/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
