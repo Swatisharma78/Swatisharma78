@@ -1,5 +1,5 @@
 
-![MasterHead](https://www.9series.com/img/services/full-stack/best%20Full%20Stack%20development%20company%20in%20India.jpg)
+
 <h1 align="center">Hi 👋, I'm swati sharma</h1>
 <h3 align="center">Full-stack web developer developer trained in HTML, CSS, Javascript,React and Redux. Looking forward to using this personal, analytical, and technical skills effectively and gaining hands-on experience.</h3>
 
