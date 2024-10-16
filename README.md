@@ -24,7 +24,8 @@
 
 - 📫 How to reach me **swatisharma28m@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1zbdbuWtEzB-zpgZmbaKXnw7XeL0ubBfuFy4mJByXYKI/edit?usp=sharing](https://docs.google.com/document/d/1zbdbuWtEzB-zpgZmbaKXnw7XeL0ubBfuFy4mJByXYKI/edit?usp=sharing)
+- 📄 Know about my experiences (https://docs.google.com/document/d/1pk-qwaihCHZL_7tXtCfsQ8-LQSV4fOJcBUsTeOgs9uI/edit?usp=sharing)
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
